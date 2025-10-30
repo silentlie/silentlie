@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Linh Tuan Nguyen 👋
 
-<!--
-**silentlie/silentlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a software developer passionate about building quality software and learning new technologies. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Focus
+- Working on various software development projects
+- Exploring modern development practices and tools
+- Contributing to open source when possible
+
+### 🌱 Learning & Growth
+- Continuously improving my coding skills
+- Staying up-to-date with the latest tech trends
+- Building practical applications to solve real-world problems
+
+### 💻 Tech Stack
+- Programming Languages & Technologies
+- Version Control & Development Tools
+- Software Engineering Best Practices
+
+### 📫 How to Reach Me
+- GitHub: [@silentlie](https://github.com/silentlie)
+
+---
+
+⚡ *"Code is like humor. When you have to explain it, it's bad." - Cory House*
