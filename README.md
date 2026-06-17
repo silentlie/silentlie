@@ -55,18 +55,6 @@ Declarative NixOS and Docker Compose setup for self-hosted services, infrastruct
 Autonomous robot simulation using sonar, camera perception, finite-state control, A* path planning, and safety recovery.
 
 **Tech:** Python, Webots, robotics simulation, A*, BFS, FSM
-
----
-
-## Technical Skills
-
-**Languages:** TypeScript, JavaScript, C#, Python, Dart, Java  
-**Frontend / Mobile:** React, React Native, Expo, Flutter, HTML, CSS  
-**Backend:** .NET, Node.js, Express, REST APIs, GraphQL  
-**Cloud / DevOps:** AWS, Docker, GitHub Actions, NixOS, Linux  
-**Databases:** SQL Server, MySQL, PostgreSQL, MongoDB, SQLite  
-**Practices:** API integration, authentication, validation, testing, documentation, Git workflows
-
 ---
 
 ## Current Focus
