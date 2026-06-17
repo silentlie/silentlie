@@ -37,8 +37,9 @@ Declarative NixOS and Docker Compose setup for self-hosted infrastructure and ob
 
 ## Technical Skills
 
-**Core:** TypeScript, JavaScript, C#, Python, Dart  
-**Frontend / Mobile:** React, React Native, Expo, Flutter  
-**Backend:** .NET, Node.js, Express, REST APIs, GraphQL  
-**Cloud / DevOps:** AWS, Docker, GitHub Actions, NixOS, Linux  
-**Databases:** SQL Server, PostgreSQL, MySQL, MongoDB, SQLite
+**Core Languages:** TypeScript, JavaScript, C#, Python, Dart  
+**Frontend / Mobile:** React, React Native, Expo, Flutter, Next.js, HTML, CSS  
+**Backend / APIs:** .NET, Node.js, Express, REST APIs, GraphQL  
+**Cloud / DevOps:** AWS, Firebase, Docker, GitHub Actions, NixOS, Linux  
+**Databases:** SQL Server, PostgreSQL, MySQL, MongoDB, SQLite  
+**Other Experience:** Java, C++, Kotlin, Redux, Nginx, Apache, EJS, Esbuild
