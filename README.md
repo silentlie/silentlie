@@ -12,20 +12,24 @@ I build practical software across React / React Native, Flutter, TypeScript, C#,
 ## Featured Projects
 
 ### ADSATS – Aviation Document Storage and Tracking System
-Flutter + AWS Amplify app for document storage and tracking workflows.  
-**Tech:** Flutter, Dart, AWS Amplify, GraphQL, Cognito, S3, Lambda
+Flutter + AWS Amplify Gen 2 app for managing aviation documents, staff records, aircraft records, notices, reports, reminders, and KPI views.
+
+Tech: Flutter, Dart, AWS Amplify Gen 2, Cognito, AppSync GraphQL, S3, Lambda, Riverpod, GoRouter, Freezed.
+
+Highlights:
+- Built cloud-backed document and record workflows
+- Integrated authentication, storage, GraphQL data models, and serverless functions
+- Structured feature modules with providers, repositories, generated routes, and model code
 
 ### Fake Store App
-React Native / Expo e-commerce app with authentication, cart, checkout, and order tracking.  
-**Tech:** React Native, Expo, TypeScript, Redux Toolkit, RTK Query, Zod
+React Native / Expo mobile commerce app with authentication, product browsing, cart management, checkout, and order tracking.
+
+Tech: React Native, Expo, TypeScript, Redux Toolkit, RTK Query, Zod, React Navigation.
 
 ### Mini Server
-ASP.NET Core backend template using SQL Server, Docker, clean architecture, and test structure.  
-**Tech:** C#, .NET 9, SQL Server, Docker
+ASP.NET Core 9 backend starter with SQL Server, Docker, clean architecture, unit tests, and integration tests.
 
-### Nix Homelab Stack
-Declarative NixOS and Docker Compose setup for self-hosted infrastructure and observability.  
-**Tech:** NixOS, Docker Compose, Linux, Git
+Tech: C#, .NET 9, SQL Server, Docker, Clean Architecture.
 
 ---
 
